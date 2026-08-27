@@ -17,3 +17,7 @@ A library for creating and executing quantum circuits on classical hardware.
 A serverless API that queries multiple upstream exchange APIs and aggregates price data into a single result.
 
 [View Repository](https://github.com/danm7251/crypto-checker)
+
+## Contact Me
+
+Email: [danielmaynard.uk@gmail.com](mailto:danielmaynard.uk@gmail.com)
